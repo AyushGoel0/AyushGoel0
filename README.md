@@ -1,6 +1,3 @@
-## GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGoel0&show_icons=true&theme=radical)
-
 - 👋 Hi, I’m @AyushGoel0
 - 👀 I’m interested in Coding and Web Development...
 - 🌱 I’m currently learning C, C++, Python, HTML, CSS, Javascript...
@@ -20,6 +17,9 @@
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGoel0&layout=compact&theme=radical)
+
+## GitHub Stats
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGoel0&show_icons=true&theme=radical)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
