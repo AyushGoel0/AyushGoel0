@@ -10,6 +10,21 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am always learning new things about tech and web
 
+# Portfolio
+- [Project 1](link-to-project1): Brief description of project 1.
+- [Project 2](link-to-project2): Brief description of project 2.
+- [Project 3](link-to-project3): Brief description of project 3.
+
+## Achievements
+- Achievement 1: Description of achievement 1.
+- Achievement 2: Description of achievement 2.
+- Achievement 3: Description of achievement 3.
+
+## Certifications
+- [Certification 1](link-to-certification1): Description of certification 1.
+- [Certification 2](link-to-certification2): Description of certification 2.
+- [Certification 3](link-to-certification3): Description of certification 3.
+
 ## Top Languages & GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGoel0&layout=compact&theme=radical) ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGoel0&show_icons=true&theme=radical)
 
