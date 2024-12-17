@@ -11,7 +11,7 @@
 - ⚡ Fun fact: [I am always learning new things about tech and web]
 
 
-## Top Languages ## GitHub Stats
+## Top Languages                                                                                                         GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGoel0&layout=compact&theme=radical) ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGoel0&show_icons=true&theme=radical)
 
 
