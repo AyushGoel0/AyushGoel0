@@ -1,25 +1,19 @@
+## About Me
 - 👋 Hi, I’m @AyushGoel0
 - 👀 I’m interested in Coding and Web Development...
-- 🌱 I’m currently learning C, C++, Python, HTML, CSS, Javascript...
-- 💞️ I’m looking to collaborate on my project...
-- 📫 How to reach me :- https://github.com/AyushGoel0...
-
-## About Me
 - 🔭 I’m currently working on [Your current project]
-- 🌱 I’m currently learning [What you're learning]
+- 🌱 I’m currently learning [Python, HTML, CSS, Javascript]
 - 👯 I’m looking to collaborate on [Projects you want to collaborate on]
 - 🤔 I’m looking for help with [Any help needed]
-- 💬 Ask me about [Topics you're knowledgeable about]
-- 📫 How to reach me: [Your contact information]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 💬 Ask me about [C, C++]
+- 📫 How to reach me: [Ayush Goel](aayushgoel524@gmail.com)
+- 😄 Pronouns: [He/Him]
+- ⚡ Fun fact: [I am always learning new things about tech and web]
 
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGoel0&layout=compact&theme=radical)
+## Top Languages ## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGoel0&layout=compact&theme=radical) ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGoel0&show_icons=true&theme=radical)
 
-## GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGoel0&show_icons=true&theme=radical)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
