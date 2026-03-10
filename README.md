@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Goel;Passionate+Developer;Web+%26+Game+Development+Enthusiast;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Goel;B.Tech+CSE+%7C+Full+Stack+Developer+%7C+React+%26+Python;Passionate+Developer;Always+Learning+%26+Building!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,17 +13,19 @@
 const ayush = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: ["Web Development", "Python Programming", "Game Development"],
+    education: "B.Tech CSE (Computer Science & Engineering)",
+    currentFocus: ["Full Stack Development", "React & Python Applications"],
     learning: ["Full Stack Development", "Data Structures & Algorithms"],
     interests: ["Coding", "Problem Solving", "Building Interactive Applications"],
     funFact: "I turn coffee into code ☕️💻"
 };
 ```
 
-- 🔭 I'm currently working on **Web Development Projects** and **Python Applications**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 🔭 I'm currently working on **Full Stack Web Projects** and **React & Python Applications**
 - 🌱 I'm learning **Full Stack Development** and advancing my **DSA** skills
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AyushGoel0)
-- 💬 Ask me about **C, C++, Python, JavaScript, HTML/CSS, Flask, Pygame**
+- 💬 Ask me about **C, C++, Python, JavaScript, HTML/CSS, Flask, Pygame, React, TypeScript, Tailwind CSS, Node.js**
 - 📫 Reach me at **aayushgoel524@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and building things from scratch!**
 
