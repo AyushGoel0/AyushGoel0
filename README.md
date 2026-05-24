@@ -13,7 +13,7 @@
 const ayush = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    education: "B.Tech CSE (Computer Science & Engineering)",
+    education: "B.Tech CSE (Computer Science & Engineering), BANSAL INSTITUTE OF ENGINEERING AND TECHNOLOGY",
     currentFocus: ["Full Stack Development", "React & Python Applications"],
     learning: ["Full Stack Development", "Data Structures & Algorithms"],
     interests: ["Coding", "Problem Solving", "Building Interactive Applications"],
@@ -25,6 +25,7 @@ const ayush = {
 - 🔭 I'm currently working on **Full Stack Web Projects** and **React & Python Applications**
 - 🌱 I'm learning **Full Stack Development** and advancing my **DSA** skills
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AyushGoel0)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1MZ3uxQUQHV0ylwx8Z3dEAZA9KoGXAfz7/view?usp=sharing)
 - 💬 Ask me about **C, C++, Python, JavaScript, HTML/CSS, Flask, Pygame, React, TypeScript, Tailwind CSS, Node.js**
 - 📫 Reach me at **aayushgoel524@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and building things from scratch!**
@@ -46,6 +47,20 @@ const ayush = {
   </a>
 </p>
 
+## 🧑‍💻 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/AyushGoel0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/ayushgoel0" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ayushgoel0/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -53,11 +68,16 @@ const ayush = {
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-FFE873?style=for-the-badge&logo=python&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -65,6 +85,8 @@ const ayush = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -102,7 +124,7 @@ const ayush = {
     <td width="50%">
       <h3 align="center">💰 Payroll Processing System</h3>
       <div align="center">
-        <a href="https://github.com/AyushGoel0/PAYROLL-PRCESSING-SYSTEM" target="_blank">
+        <a href="https://github.com/AyushGoel0/Payroll-Processing-System" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-6BCB77?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
         <p><strong>Python</strong> - Comprehensive payroll management system with data processing</p>
@@ -128,6 +150,21 @@ const ayush = {
         <p><strong>Python</strong> - Dashboard for social media analytics and insights</p>
       </div>
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚆 Rail Saathi</h3>
+      <div align="center">
+        <a href="https://github.com/AyushGoel0/Rail-Saathi" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <a href="https://rail-saathi.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+        </a>
+        <p><strong>React, Node.js</strong> - Railway utility web app with deployed live demo</p>
+      </div>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
