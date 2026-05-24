@@ -22,6 +22,7 @@ const ayush = {
 ```
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 🏫 College: **BANSAL INSTITUTE OF ENGINEERING AND TECHNOLOGY**
 - 🔭 I'm currently working on **Full Stack Web Projects** and **React & Python Applications**
 - 🌱 I'm learning **Full Stack Development** and advancing my **DSA** skills
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AyushGoel0)
