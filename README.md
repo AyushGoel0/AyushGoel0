@@ -36,9 +36,9 @@ Full-stack developer (React • Node.js • Python) | B.Tech CSE
 
 ## Skills (primary)
 
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python, Flask
-- **Tools:** Git, GitHub, VS Code, Vercel, Render
+- **Frontend:** JavaScript, HTML, CSS
+- **Backend:** Python, Flask
+- **Tools:** Git, GitHub, VS Code, Render
 
 ## Competitive programming
 
