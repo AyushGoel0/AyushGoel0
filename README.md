@@ -44,4 +44,3 @@ Full-stack developer (React • Node.js • Python) | B.Tech CSE
 
 - LeetCode: https://leetcode.com/AyushGoel0/
 - CodeChef: https://www.codechef.com/users/ayushgoel0
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/ayushgoel0/
