@@ -14,7 +14,7 @@ Full-stack developer (React • Node.js • Python) | B.Tech CSE
 ## About
 
 - 🎓 B.Tech (Computer Science & Engineering) @ Bansal Institute of Engineering and Technology
-- 🔭 Building full-stack web apps (React) and backend services (Node.js / Python)
+- 🔭 Building full-stack web apps and backend services (Python)
 - 🌱 Currently improving DSA + system fundamentals alongside full-stack work
 - 📫 Reach me: **aayushgoel524@gmail.com**
 
