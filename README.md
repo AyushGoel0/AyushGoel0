@@ -6,7 +6,7 @@ Full-stack developer (React • Node.js • Python) | B.Tech CSE
   <a href="mailto:aayushgoel524@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ayush-goel-979854167/">LinkedIn</a> •
   <a href="https://x.com/Ayush_Goel_0">X (Twitter)</a> •
-  <a href="[https://drive.google.com/file/d/1MZ3uxQUQHV0ylwx8Z3dEAZA9KoGXAfz7/view?usp=sharing](https://drive.google.com/file/d/1rAyvm1Ne4smU7SgvK5xJCz5C2RmmPwdX/view?usp=sharing)">Resume</a>
+  <a href="https://drive.google.com/file/d/1rAyvm1Ne4smU7SgvK5xJCz5C2RmmPwdX/view?usp=sharing">Resume</a>
 </p>
 
 ---
