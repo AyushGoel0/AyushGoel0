@@ -1,6 +1,6 @@
 # Ayush Goel
 
-Full-stack developer (React • Node.js • Python) | B.Tech CSE
+Python and Backend developer (React • Python) | B.Tech CSE
 
 <p align="center">
   <a href="mailto:aayushgoel524@gmail.com">Email</a> •
