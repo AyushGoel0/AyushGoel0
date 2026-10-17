@@ -29,4 +29,4 @@ Python and Backend Developer | B.Tech - CSE
 
 - **Frontend:** JavaScript, HTML, CSS
 - **Backend:** Python, REST Api
-- **Tools:** Git, GitHub, VS Code, Rende
+- **Tools:** Git, GitHub, VS Code, Render
