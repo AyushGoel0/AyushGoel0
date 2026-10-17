@@ -2,7 +2,7 @@
 
 Python and Backend developer (React • Python) | B.Tech CSE
 
-<p align="center">
+<p>
   <a href="mailto:aayushgoel524@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ayush-goel-979854167/">LinkedIn</a> •
   <a href="https://x.com/Ayush_Goel_0">X (Twitter)</a> •
