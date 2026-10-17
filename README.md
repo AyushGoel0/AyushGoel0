@@ -1,6 +1,6 @@
 # Ayush Goel
 
-Python and Backend developer (React • Python) | B.Tech CSE
+Python and Backend Developer | B.Tech - CSE
 
 <p>
   <a href="https://drive.google.com/file/d/1rAyvm1Ne4smU7SgvK5xJCz5C2RmmPwdX/view?usp=sharing">Resume</a> •
