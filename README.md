@@ -28,5 +28,5 @@ Python and Backend Developer | B.Tech - CSE
 ## Skills (primary)
 
 - **Frontend:** JavaScript, HTML, CSS
-- **Backend:** Python, Flask
-- **Tools:** Git, GitHub, VS Code, Render
+- **Backend:** Python, REST Api
+- **Tools:** Git, GitHub, VS Code, Rende
