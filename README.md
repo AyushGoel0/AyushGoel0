@@ -30,8 +30,3 @@ Python and Backend developer (React • Python) | B.Tech CSE
 - **Frontend:** JavaScript, HTML, CSS
 - **Backend:** Python, Flask
 - **Tools:** Git, GitHub, VS Code, Render
-
-## Competitive programming
-
-- LeetCode: [aayushgoel524](https://leetcode.com/u/aayushgoel524/)
-- CodeChef: https://www.codechef.com/users/ayushgoel0
