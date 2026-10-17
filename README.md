@@ -23,12 +23,6 @@ Python and Backend developer (React • Python) | B.Tech CSE
 - **Rail Saathi** — React + Node.js railway utility web app (Live demo available)  
   Repo: https://github.com/AyushGoel0/Rail-Saathi • Live: https://rail-saathi.onrender.com
 
-- **Weather Forecast App** — HTML/CSS/JS weather app with real-time data  
-  Repo: https://github.com/AyushGoel0/Weather-Forecast-App
-
-- **Expense Tracker** — HTML/CSS/JS expense tracker  
-  Repo: https://github.com/AyushGoel0/CodeAlpha_Expense_Tracker
-
 > More projects: https://github.com/AyushGoel0?tab=repositories
 
 ## Skills (primary)
