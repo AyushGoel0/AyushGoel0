@@ -21,7 +21,7 @@ Python and Backend Developer | B.Tech - CSE
 ## Featured projects
 
 - **Rail Saathi** — React + Node.js railway utility web app (Live demo available)  
-  Repo: https://github.com/AyushGoel0/Rail-Saathi • Live: https://rail-saathi.onrender.com
+  Repo: https://github.com/AyushGoel0/Rail-Saathi | Live: https://rail-saathi.onrender.com
 
 > More projects: https://github.com/AyushGoel0?tab=repositories
 
